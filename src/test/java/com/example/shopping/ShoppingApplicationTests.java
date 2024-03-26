@@ -67,6 +67,7 @@ class ShoppingApplicationTests {
     /*
      * 题目4，假设购买6斤苹果，5斤草莓，5斤芒果，满100减10
      * 计算总价
+     * 满减说明：99.99不享受满减，100,100.1享受满减
      * */
     @Test
     public void testCase4() {

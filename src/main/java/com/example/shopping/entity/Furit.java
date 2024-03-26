@@ -18,7 +18,7 @@ public class Furit {
     //总价，单位元
     BigDecimal totalPrice;
 
-    //折扣
+    //折扣，大于0且小于1，实例：0.8代表8折
     BigDecimal discount;
 
     //斤数，单位斤

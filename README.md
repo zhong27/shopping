@@ -14,3 +14,23 @@
 4、促销活动效果明显，超市继续加大促销力度，购物满 100 减 10 块。
 现在顾客 D 在超市购买了若干斤苹果、 草莓和芒果，需计算一共需要多少钱？
 请编写函数，对于 D 购买的水果斤数 (水果斤数为大于等于 0 的整数)，计算并返回所购买商品的总价。
+
+###题目1
+测试用例1
+测试代码路径：com.example.shopping.ShoppingApplicationTests#testCase1
+测试方法：直接执行testCase1方法
+
+###题目2
+测试用例2
+测试代码路径：com.example.shopping.ShoppingApplicationTests#testCase2
+测试方法：直接执行testCase2方法
+
+###题目3
+测试用例3
+测试代码路径：com.example.shopping.ShoppingApplicationTests#testCase3
+测试方法：直接执行testCase3方法
+
+###题目4
+测试用例4
+测试代码路径：com.example.shopping.ShoppingApplicationTests#testCase4
+测试方法：直接执行testCase4方法
